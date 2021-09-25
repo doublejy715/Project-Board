@@ -83,3 +83,9 @@ InterfaceGAN의 결과가 좋지 않아서 문제. -> 더 많은 데이터 셋�
 [github code link](https://github.com/naver-ai/StyleMapGAN)
 - naver ai
 - 학습 가능하지만, custom data 기준으로 설명되어 있지 않음
+
+# face parser code modify
+한번에 동영상에서 얼굴 추출까지 하는 코드 작성
+
+# add dataset
+데이터 셋 추가할 동영상 다운로드
