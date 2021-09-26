@@ -10,3 +10,7 @@ A Latent Transformer for Disentangled Face Editing in Images and Videos 참조
 -> 안됨... 다른 모델 시도
 
 # StyleFlow 돌려보기
+-> 안됨
+시간상 기존 성공하였던 SeFa로 함
+
+# SeFa
