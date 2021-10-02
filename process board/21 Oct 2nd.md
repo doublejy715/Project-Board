@@ -1,6 +1,5 @@
 # StyleFlow dataset 준비
-## Face_attribute_extracter.py
-### Styleflow 제공 데이터 셋
+## Styleflow 제공 데이터 셋
 
 - attributes
 shape : [batch,8,1]  
@@ -15,7 +14,6 @@ data type : float 32
 styleGAN2 image generator 이용 : 10K sample  
 latent vector와 이미지를 바로 저장하면 될 듯  
 일단 z,w latent vector 둘다 저장할 생각  
-
 궁금 : image generate한 다음에 image상태 보고 사람다운 사진 10K개를 써야겠지??  
 
 - lightings
