@@ -6,5 +6,5 @@
 
 ## attribute 조절
 ### StyleFlow에서 attribute조절하는 방법 알아내기
-[Link]()
+[Link](https://github.com/doublejy715/Project-Board/issues/1)
 ### 따로 test 코드 짜기
